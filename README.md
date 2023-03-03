@@ -1,6 +1,8 @@
-Hi!  
-My name is Vladimir.  
-I am an aspiring iOS developer who is passionate about learning and building apps. Currently, I am developing my skills in Swift, SwiftUI, CoreData, MVVM, Combine, and URLSession on my own. I am eager to take on new challenges and projects to further hone my skills and gain real-world experience. If you are looking for a dedicated and motivated beginner to work with, I would love to collaborate and bring your iOS app ideas to life.
+<h1 align="center">
+Hi! My name is Vladimir.</h1>
+<br>
+<div>
+ I am an aspiring iOS developer who is passionate about learning and building apps. Currently, I am developing my skills in Swift, SwiftUI, CoreData, MVVM, Combine, and URLSession on my own. I am eager to take on new challenges and projects to further hone my skills and gain real-world experience. If you are looking for a dedicated and motivated beginner to work with, I would love to collaborate and bring your iOS app ideas to life.
 
 ## Skills
 
