@@ -22,5 +22,5 @@ Hi! My name is Vladimir</h1>
 <a href="http://www.github.com/greenpiligrim"><img src="https://github-readme-stats.vercel.app/api?username=greenpiligrim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="greenpiligrim's GitHub stats" /></a>
 <a href="https://github.com/greenpiligrim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenpiligrim&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<iframe src="https://giphy.com/embed/s73Ct10GdUSsg" width="480" height="353" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iphone-s73Ct10GdUSsg">via GIPHY</a></p>
-<img align="right" alt="GIF" src="https://giphy.com/embed/s73Ct10GdUSsg?raw=true" width="480" height="353" />
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
