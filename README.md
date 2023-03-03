@@ -21,10 +21,9 @@ I am an aspiring iOS developer who is passionate about learning and building app
 </p>
                     
                 
-  ### Socials
+
                   
-                  
-                <p align="left">
+ <p align="left">
                           
                       <a href="https://www.github.com/greenpiligrim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
