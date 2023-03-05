@@ -2,13 +2,14 @@
 Hi! My name is Vladimir</h1>
 <br>
 <div>
- I am an aspiring iOS developer who is passionate about learning and building apps. Currently, I am developing my skills in Swift, SwiftUI, CoreData, MVVM, Combine, and URLSession on my own. I am eager to take on new challenges and projects to further hone my skills and gain real-world experience. If you are looking for a dedicated and motivated beginner to work with, I would love to collaborate and bring your iOS app ideas to life.  
+ I am an aspiring iOS developer who is passionate about learning and building apps. Currently, I am developing my skills in Swift, UIKit, SwiftUI, CoreData, MVVM, Combine, and URLSession on my own. I am eager to take on new challenges and projects to further hone my skills and gain real-world experience. If you are looking for a dedicated and motivated beginner to work with, I would love to collaborate and bring your iOS app ideas to life.  
  
 <img align="right" alt="GIF" src="https://github.com/Greenpiligrim/Greenpiligrim/blob/main/giphy.gif?raw=true" width="480" height="353"/>
 
 ## Skills
 
 - <span style="font-size: 1.2em;">Swift</span>
+- <span style="font-size: 1.2em;">UIKit</span> 
 - <span style="font-size: 1.2em;">SwiftUI</span>
 - <span style="font-size: 1.2em;">CoreData</span>
 - <span style="font-size: 1.2em;">MVVM</span>
